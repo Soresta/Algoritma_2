@@ -2,8 +2,6 @@
 Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncelleme, İşlem yapma), Hata Yakalama ve Fırlatma, Thread(iş parçacıkları) işlemleri, Nesne Tabanlı Programlamanın Temelleri (miras (inheritance), çok biçimlilik (polymorphism), kapsülleme (encapsulation), soyutlama (abstraction) ve Arayüzler (Interfaces)), GUI (Grafiksel kullanıcı arayüzü) gibi konuların proje kodlarını ve örneklerini içeren bir repo.
 
 # GUI Ekran Görüntüleri
-![Labirent2024-04-0423-15-05-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/911c266b-31c4-4bca-a530-a5b8dda99a34)
-![Saya2024-04-0423-16-32-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/3638ff2e-0dc3-4711-ad0e-d001462d1a17)
 ![ezgif com-video-to-gif (8)](https://github.com/Soresta/Algoritma_2/assets/112137968/6ba320f5-a6b2-4f2d-b1d2-e6584c88f942)
 ![ezgif com-video-to-gif (7)](https://github.com/Soresta/Algoritma_2/assets/112137968/92f75c00-3ebb-4d9d-9058-fb5f73c71baa)
 ![ezgif com-video-to-gif (6)](https://github.com/Soresta/Algoritma_2/assets/112137968/1707b264-7232-4019-a50f-221be4f28472)
@@ -11,6 +9,8 @@ Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncellem
 ![ezgif com-video-to-gif (4)](https://github.com/Soresta/Algoritma_2/assets/112137968/cbad802d-fe52-4726-8dff-4a587fd8d236)
 ![ezgif com-video-to-gif (3)](https://github.com/Soresta/Algoritma_2/assets/112137968/c498efcd-700e-41a0-9154-be534523f771)
 ![ezgif com-video-to-gif (2)](https://github.com/Soresta/Algoritma_2/assets/112137968/043ac34b-c953-4f84-8561-0992180cd655)
+![Labirent2024-04-0423-15-05-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/911c266b-31c4-4bca-a530-a5b8dda99a34)
+![Saya2024-04-0423-16-32-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/3638ff2e-0dc3-4711-ad0e-d001462d1a17)
 ![Ekran görüntüsü 2023-09-20 200818](https://github.com/Soresta/Algoritma_2/assets/112137968/e1ce7ff7-001d-419f-96a3-9412fa5ed00a)
 ![Ekran görüntüsü 2023-09-20 200809](https://github.com/Soresta/Algoritma_2/assets/112137968/ba3835d5-3525-4856-84e5-54d1cfb0a049)
 ![Ekran görüntüsü 2023-09-20 200728](https://github.com/Soresta/Algoritma_2/assets/112137968/d68d22f9-c681-41cc-b0b8-9406a0f0ac80)
