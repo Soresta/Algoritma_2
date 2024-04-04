@@ -29,5 +29,8 @@ Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncellem
 ![Ekran görüntüsü 2023-09-20 200417](https://github.com/Soresta/Algoritma_2/assets/112137968/9789b07f-d2ce-480a-8e43-f324ff83af9e)
 ![Ekran görüntüsü 2023-09-20 200410](https://github.com/Soresta/Algoritma_2/assets/112137968/b2cf2267-6f48-4e0a-bdb1-51c690cdc274)
 
+# NOT:
+GUI işlemlerinde Swing Kütüphanesi kullanılmıştır, ayrıca daha modern bir kütüphane kullanmak isterseniz(Opsiyonel) JavaFX kütüphanesini önerebilirim. diğer reporlarımda birkaç javaFx Gui projeleri vardır inceleyebilirsiniz!.
+
 
 
