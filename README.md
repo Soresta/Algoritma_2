@@ -2,6 +2,8 @@
 Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncelleme, İşlem yapma), Hata Yakalama ve Fırlatma, Thread(iş parçacıkları) işlemleri, Nesne Tabanlı Programlamanın Temelleri (miras (inheritance), çok biçimlilik (polymorphism), kapsülleme (encapsulation), soyutlama (abstraction) ve Arayüzler (Interfaces)), GUI (Grafiksel kullanıcı arayüzü) gibi konuların proje kodlarını ve örneklerini içeren bir repo.
 
 # GUI Ekran Görüntüleri
+![Labirent2024-04-0423-15-05-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/911c266b-31c4-4bca-a530-a5b8dda99a34)
+![Saya2024-04-0423-16-32-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/3638ff2e-0dc3-4711-ad0e-d001462d1a17)
 ![ezgif com-video-to-gif (8)](https://github.com/Soresta/Algoritma_2/assets/112137968/6ba320f5-a6b2-4f2d-b1d2-e6584c88f942)
 ![ezgif com-video-to-gif (7)](https://github.com/Soresta/Algoritma_2/assets/112137968/92f75c00-3ebb-4d9d-9058-fb5f73c71baa)
 ![ezgif com-video-to-gif (6)](https://github.com/Soresta/Algoritma_2/assets/112137968/1707b264-7232-4019-a50f-221be4f28472)
@@ -26,5 +28,6 @@ Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncellem
 ![Ekran görüntüsü 2023-09-20 200422](https://github.com/Soresta/Algoritma_2/assets/112137968/19580c24-c8b6-48de-9fc4-8be26a48853c)
 ![Ekran görüntüsü 2023-09-20 200417](https://github.com/Soresta/Algoritma_2/assets/112137968/9789b07f-d2ce-480a-8e43-f324ff83af9e)
 ![Ekran görüntüsü 2023-09-20 200410](https://github.com/Soresta/Algoritma_2/assets/112137968/b2cf2267-6f48-4e0a-bdb1-51c690cdc274)
-![Saya2024-04-0423-16-32-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/3638ff2e-0dc3-4711-ad0e-d001462d1a17)
+
+
 
