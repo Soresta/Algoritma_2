@@ -1,4 +1,4 @@
-# Algoritma_2
+![2024-04-0500-10-39-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/cf99c2ba-e216-434a-8d97-91855188f910)# Algoritma_2
 Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncelleme, İşlem yapma), Hata Yakalama ve Fırlatma, Thread(iş parçacıkları) işlemleri, Nesne Tabanlı Programlamanın Temelleri (miras (inheritance), çok biçimlilik (polymorphism), kapsülleme (encapsulation), soyutlama (abstraction) ve Arayüzler (Interfaces)), GUI (Grafiksel kullanıcı arayüzü) gibi konuların proje kodlarını ve örneklerini içeren bir repo.
 
 # GUI Ekran Görüntüleri
@@ -9,6 +9,7 @@ Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncellem
 ![ezgif com-video-to-gif (4)](https://github.com/Soresta/Algoritma_2/assets/112137968/cbad802d-fe52-4726-8dff-4a587fd8d236)
 ![ezgif com-video-to-gif (3)](https://github.com/Soresta/Algoritma_2/assets/112137968/c498efcd-700e-41a0-9154-be534523f771)
 ![ezgif com-video-to-gif (2)](https://github.com/Soresta/Algoritma_2/assets/112137968/043ac34b-c953-4f84-8561-0992180cd655)
+![2024-04-0500-10-39-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/af878412-ee23-4d40-a150-7b16e6fd17a6)
 ![Labirent2024-04-0423-15-05-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/911c266b-31c4-4bca-a530-a5b8dda99a34)
 ![Saya2024-04-0423-16-32-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/3638ff2e-0dc3-4711-ad0e-d001462d1a17)
 ![Ekran görüntüsü 2023-09-20 200818](https://github.com/Soresta/Algoritma_2/assets/112137968/e1ce7ff7-001d-419f-96a3-9412fa5ed00a)
