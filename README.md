@@ -1,4 +1,4 @@
-![2024-04-0500-10-39-ezgif com-video-to-gif-converter](https://github.com/Soresta/Algoritma_2/assets/112137968/cf99c2ba-e216-434a-8d97-91855188f910)# Algoritma_2
+# Algoritma_2
 Nesne ve Sınıf kavramları, Dosya İşlemleri (Dosya Silme, Ekleme, Güncelleme, İşlem yapma), Hata Yakalama ve Fırlatma, Thread(iş parçacıkları) işlemleri, Nesne Tabanlı Programlamanın Temelleri (miras (inheritance), çok biçimlilik (polymorphism), kapsülleme (encapsulation), soyutlama (abstraction) ve Arayüzler (Interfaces)), GUI (Grafiksel kullanıcı arayüzü) gibi konuların proje kodlarını ve örneklerini içeren bir repo.
 
 # GUI Ekran Görüntüleri
